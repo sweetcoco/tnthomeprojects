@@ -1,0 +1,14 @@
+.navbar-inverse {
+  background-color: rgba(119,119,119, .4) !important;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  background-color: rgba(34,34,34, 0);
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff !important;
+  opacity: 1 !important;
+}
